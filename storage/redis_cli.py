@@ -39,7 +39,7 @@ class RedisClient(object):
 
 if __name__ == '__main__':
     re = RedisClient()
-    re.add('实习生全裸上班日记[33P]', 'https://66img.cc/images/2024/01/28/114-8430b_.jpg')
+    re.add('test', 'www.cn')
     # for i in range(50):
     #     re.add(f't{i}', 'he')
     # print(re.count())
