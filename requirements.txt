@@ -1,0 +1,7 @@
+aiofiles==23.2.1
+aiohttp==3.8.6
+aiohttp_socks==0.8.4
+beautifulsoup4==4.12.3
+fake_headers==1.0.2
+loguru==0.7.2
+redis==5.0.1
